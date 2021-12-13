@@ -2336,7 +2336,7 @@ FeaturedExploits = {
 		Author = "Masterious",
 		ImageID = 0,
 		Colour = Color3.fromRGB(31, 31, 31),
-		Code = "https://raw.githubusercontent.com/AtriumAdmin/AtriumX/blob/source.lua",
+		Code = "https://raw.githubusercontent.com/AtriumAdmin/Atrium-X/main/Main.lua",
 	},
 	CLOVR = {
 		Name = "CloVR",
