@@ -41,6 +41,8 @@ All Star Tower Defence - 4996049426
 Pet Simulator X - 6284583030
 Wizard Tycoon - 281489669 (Premium)
 Jailbreak - 606849621
+Solaris Hub - 6172932937, 6494523288, 3527629287, 1782832995, 6381829480, 5041144419, 21532277
+Tower Defense - 5732966938
 Break In - 3851622790
 Anime Fighters Simulator - 6299805723
 Stands Awakening - 5780309044
