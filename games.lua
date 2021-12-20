@@ -12,7 +12,13 @@ Right 2 Fight - 8170900938
 Tapping Mania - 5535087806
 Oil Warfare Tycoon - 4639625707
 Outlaster - 5343994291 (Premium)
-
+Mega Easy Obby - 3587619225
+Impossible Squid Game - 7198500613
+Adopt Me - 920587237
+Fishing Frontier - 2866967438
+SCP: Roleplay - 5041144419
+Slap Battles - 6403373529
+Blast Off - 5256165620
 Boxing League - 3738091713
 Da Hood - 2788229376
 GG - 8052921123
@@ -23,6 +29,10 @@ Anomic - 4581966615
 Legends Of Speed - 3101667897 (Premium)
 Snow Shovelling Simulator - 1252559098
 Islands - 4872321990
+Trenches - 5648523896
+Destruction Simulator - 2248408710
+Vans World - 6679274937
+Mount Everest Climbing - 3145447020
 Project Hero - 6085581583
 Tower Defence Simulator - 3260590327 (Premium)
 Stroller - 1662219031
